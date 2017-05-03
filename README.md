@@ -11,7 +11,7 @@ This REST API mangages boats and slip assignment in a "marina". It is built on G
 
     * Data
 
-        * { "**name": “SS Example”, **type: “schooner”, “length”: 21** ** }
+        * { **"name": “SS Example”**, type: “schooner”, “length”: 21 }
 
     * Response
 
@@ -23,7 +23,7 @@ This REST API mangages boats and slip assignment in a "marina". It is built on G
 
     * Data
 
-        * { "name": “SS Leisure”,** **type: “schooner”, “length”: 21** ** }
+        * { **"name": “SS Leisure”,** type: “schooner”, “length”: 21 }
 
     * Response
 
@@ -51,7 +51,7 @@ This REST API mangages boats and slip assignment in a "marina". It is built on G
 
     * Data
 
-        * { "**name": “SS Fergie”, **type: “yacht”, “length”: 130** **}
+        * { "**name": “SS Fergie”**, type: “yacht”, “length”: 130 }
 
     * Response
 
