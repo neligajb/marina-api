@@ -11,11 +11,11 @@ This REST API mangages boats and slip assignment in a "marina". It is built on G
 
     * Data
 
-        * { **"name": “SS Example”**, type: “schooner”, “length”: 21 }
+        * ```{ **"name": “SS Example”**, type: “schooner”, “length”: 21 }```
 
     * Response
 
-        * {"name": "SS Leisure", "self": "/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACgw", "at_sea": true, "length": 32, "current_slip": null, "type": "schooner", "id": "ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACgw"}
+        * ```{"name": "SS Leisure", "self": "/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACgw", "at_sea": true, "length": 32, "current_slip": null, "type": "schooner", "id": "ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACgw"}```
 
 * PATCH /boats/**{boat_key}**
 
@@ -143,7 +143,7 @@ This REST API mangages boats and slip assignment in a "marina". It is built on G
 
     * Response
 
-        * {"arrival_date": "04/30/2017", "departure_history": [], "self": "/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA-JaVCgw", "number": 1, "current_boat": "/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICA-MKECgw", "id": "ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA-JaVCgw"}
+        * ```{"arrival_date": "04/30/2017", "departure_history": [], "self": "/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA-JaVCgw", "number": 1, "current_boat": "/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICA-MKECgw", "id": "ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA-JaVCgw"}```
 
 ### Departures
 
