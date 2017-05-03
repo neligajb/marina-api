@@ -1,5 +1,9 @@
 ## Intro
 This REST API mangages boats and slip assignment in a "marina". It is built on Google App Engine, using the **webapp2** framework.
+
+## Tests
+JSON files can be imported to Postman to create the test environment, test suite, and the tests themselves.
+
 ## https://marina-rest-api.appspot.com/
 ## Endpoints (required data in **bold**)
 
