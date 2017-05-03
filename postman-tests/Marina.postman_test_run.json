@@ -1,0 +1,2909 @@
+{
+	"id": "e3a848e8-b5c7-466c-a857-60acac670682",
+	"name": "Marina",
+	"allTests": [],
+	"timestamp": "2017-04-30T17:12:13.233Z",
+	"collection_id": "0b80c180-4888-e02f-adca-0301f3351e6c",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "358b7642-da2d-d45a-0deb-f13335ccf061",
+	"data": [],
+	"delay": 0,
+	"count": 1,
+	"collection": {
+		"id": "0b80c180-4888-e02f-adca-0301f3351e6c",
+		"name": "Marina",
+		"description": "",
+		"order": [
+			"731736f4-b369-9bc6-c773-8cc1702d1fd2",
+			"c95db051-af1e-8d77-e99f-bee399c6ec53",
+			"ac569c9d-f6b9-26bf-ab46-461adb02a64e",
+			"656af352-93ce-92e3-516e-f23926e3e168",
+			"11fd149e-8e34-c289-d80f-4d3f1e95cb1f",
+			"06ea7bf5-a8b2-f0b3-e245-2c439fa68e6a",
+			"3e560ec4-f868-3ed1-a36a-2978dd5cef5b",
+			"262891d3-8efc-8833-29ce-6369c875e7ed",
+			"9cc9aa0b-0745-9a98-63f8-06c348939a72",
+			"c11f2492-4bc1-4ed0-c729-021d0fad3cbc",
+			"a33888b4-e463-51e7-1d70-d5bcca75e99b",
+			"1cbb87b3-c88d-7c69-dacd-5e841dbab5e7",
+			"4176399d-a7f6-23c8-3fd7-67fbd2c03243",
+			"1aa588cf-4273-c920-1173-244e66ca6421",
+			"b241e02c-5dc0-d79c-1d3d-edc3cab5f2c3",
+			"1e55233d-70f9-2a19-13e5-3d6cc5bef29d",
+			"b9f0a597-e341-7184-e4da-5de9d0d2e634",
+			"7558878f-a5dd-0441-2f2c-e4c646902885",
+			"ba0f29fc-06b2-14b8-4413-d3aaa76d2659",
+			"1d9ef0c5-e5d4-7da9-2579-c920375758d8",
+			"50ee7e93-b8ce-0cc2-4e35-209e18b4d630",
+			"e0f201a0-34e1-81c6-d237-2db1702957ae",
+			"cc2eb4f4-2d81-6a22-9959-be789f497d80",
+			"7a5f2ad7-6633-f2f8-0e01-80a6ed38c1d9",
+			"71d2c790-cf70-4ff2-938c-7c6d0e722ec3",
+			"03a92d17-a8e8-1641-45c5-445505c6fb21",
+			"c22afe19-3593-72a0-3bf3-d568b4fcd005",
+			"984e1935-8054-4a7f-6b58-ab846d0f9dc7",
+			"6006408b-98a7-2cf6-c1ee-b2ad142884a3",
+			"7386a477-65e2-2997-76a6-d26916d79360",
+			"9e36ffb3-3d3f-4715-2563-84fe2d65f1c2",
+			"398a4d12-c3bd-4dcc-effd-72c161c60f0f",
+			"fd08ae02-34ad-4fce-afe5-9cc2f2153e57",
+			"e1ffbf8f-8eaf-b6bc-7e03-1b448e3ece70",
+			"7a6ecaac-af01-971e-a145-074f1b9a22f9",
+			"3bceca5d-c15c-97c0-3349-41ea95b5ab7c",
+			"84c22b56-d830-e845-fe7f-58338d5e008a",
+			"0e39dc6e-7ca7-c1dc-378f-e203a5abef17",
+			"337fcf36-50a7-e599-8f8b-b5580cf85592",
+			"5476b8d6-5884-4120-b2ed-e5eec61cc827",
+			"e2abe467-8ecb-83de-df39-803d03b1b04f",
+			"b1d01b78-92c0-3734-f674-41b36a24b54e",
+			"fdd78919-e5d0-1f42-ba1e-b2bf531bdda2",
+			"6fc5b87a-58ae-a6c0-18bd-fb4d8d0d3b78",
+			"98d99957-a1be-e3a9-d4e6-3b9f2c32797c",
+			"16a19549-89b5-5266-6d43-71c36469da17",
+			"b74b9e73-58bb-4ab9-9b14-98e2960d202c",
+			"bde9bc8f-6654-7398-6f7a-c0510cc00f56",
+			"1e48e78a-397d-b79e-967b-41c085190771",
+			"909bc13c-7644-2bbf-0bd1-d76724a92517",
+			"1ce9f361-4989-d15e-1a7a-4a7e7943226e",
+			"45080fee-f31a-1668-dd98-7cfa98d27845"
+		],
+		"folders": [],
+		"timestamp": 1492743686577,
+		"synced": false,
+		"remote_id": 0,
+		"owner": "1888965",
+		"sharedWithTeam": false,
+		"subscribed": false,
+		"remoteLink": "",
+		"remoteLinkUpdatedAt": null,
+		"public": false,
+		"createdAt": 1492743686577,
+		"updatedAt": 1493505763596,
+		"write": true,
+		"published": false,
+		"favorite": false,
+		"permissions": {},
+		"syncedPermissions": {}
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "Add Boat",
+			"id": "731736f4-b369-9bc6-c773-8cc1702d1fd2",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully created": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"210"
+			],
+			"allTests": [
+				{
+					"Boat successfully created": true
+				}
+			],
+			"time": "210",
+			"totalRequestTime": "210",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add Boat without name",
+			"id": "c95db051-af1e-8d77-e99f-bee399c6ec53",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"Bad POST to boats gives 400": true
+			},
+			"testPassFailCounts": {
+				"Bad POST to boats gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"67"
+			],
+			"allTests": [
+				{
+					"Bad POST to boats gives 400": true
+				}
+			],
+			"time": "67",
+			"totalRequestTime": "67",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Boat",
+			"id": "ac569c9d-f6b9-26bf-ab46-461adb02a64e",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully modified": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully modified": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"126"
+			],
+			"allTests": [
+				{
+					"Boat successfully modified": true
+				}
+			],
+			"time": "126",
+			"totalRequestTime": "126",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Boat with bad ID",
+			"id": "656af352-93ce-92e3-516e-f23926e3e168",
+			"url": "marina-rest-api.appspot.com/boats/aghkZXgdfg",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Bad PATCH to boats gives 404": true
+			},
+			"testPassFailCounts": {
+				"Bad PATCH to boats gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"67"
+			],
+			"allTests": [
+				{
+					"Bad PATCH to boats gives 404": true
+				}
+			],
+			"time": "67",
+			"totalRequestTime": "67",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Boat with no ID param",
+			"id": "11fd149e-8e34-c289-d80f-4d3f1e95cb1f",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"PATCH to boats with missing ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"PATCH to boats with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"76"
+			],
+			"allTests": [
+				{
+					"PATCH to boats with missing ID gives 400": true
+				}
+			],
+			"time": "76",
+			"totalRequestTime": "76",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat",
+			"id": "06ea7bf5-a8b2-f0b3-e245-2c439fa68e6a",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully GET'd": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully GET'd": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"172"
+			],
+			"allTests": [
+				{
+					"Boat successfully GET'd": true
+				}
+			],
+			"time": "172",
+			"totalRequestTime": "172",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat with no ID param",
+			"id": "3e560ec4-f868-3ed1-a36a-2978dd5cef5b",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Geting all boats returns list": true
+			},
+			"testPassFailCounts": {
+				"Geting all boats returns list": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"80"
+			],
+			"allTests": [
+				{
+					"Geting all boats returns list": true
+				}
+			],
+			"time": "80",
+			"totalRequestTime": "80",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Boat",
+			"id": "262891d3-8efc-8833-29ce-6369c875e7ed",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully replaced with PUT": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully replaced with PUT": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"106"
+			],
+			"allTests": [
+				{
+					"Slip successfully replaced with PUT": true
+				}
+			],
+			"time": "106",
+			"totalRequestTime": "106",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Boat bad ID",
+			"id": "9cc9aa0b-0745-9a98-63f8-06c348939a72",
+			"url": "marina-rest-api.appspot.com/boats/dsfds",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"PUT to boats with bad ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"PUT to boats with bad ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"66"
+			],
+			"allTests": [
+				{
+					"PUT to boats with bad ID gives 400": true
+				}
+			],
+			"time": "66",
+			"totalRequestTime": "66",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Boat with no ID param",
+			"id": "c11f2492-4bc1-4ed0-c729-021d0fad3cbc",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"PUT to boats with missing ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"PUT to boats with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"65"
+			],
+			"allTests": [
+				{
+					"PUT to boats with missing ID gives 400": true
+				}
+			],
+			"time": "65",
+			"totalRequestTime": "65",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Boat",
+			"id": "a33888b4-e463-51e7-1d70-d5bcca75e99b",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"DELETE Boat successful": true
+			},
+			"testPassFailCounts": {
+				"DELETE Boat successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"163"
+			],
+			"allTests": [
+				{
+					"DELETE Boat successful": true
+				}
+			],
+			"time": "163",
+			"totalRequestTime": "163",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Boat with bad ID",
+			"id": "1cbb87b3-c88d-7c69-dacd-5e841dbab5e7",
+			"url": "marina-rest-api.appspot.com/boats/trtr",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Bad DELETE to boats gives 404": true
+			},
+			"testPassFailCounts": {
+				"Bad DELETE to boats gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"65"
+			],
+			"allTests": [
+				{
+					"Bad DELETE to boats gives 404": true
+				}
+			],
+			"time": "65",
+			"totalRequestTime": "65",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Boat with no ID param",
+			"id": "4176399d-a7f6-23c8-3fd7-67fbd2c03243",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"DELETE to boats with missing ID param gives 400": true
+			},
+			"testPassFailCounts": {
+				"DELETE to boats with missing ID param gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"82"
+			],
+			"allTests": [
+				{
+					"DELETE to boats with missing ID param gives 400": true
+				}
+			],
+			"time": "82",
+			"totalRequestTime": "82",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add Boat again",
+			"id": "1aa588cf-4273-c920-1173-244e66ca6421",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully created": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"163"
+			],
+			"allTests": [
+				{
+					"Boat successfully created": true
+				}
+			],
+			"time": "163",
+			"totalRequestTime": "163",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add Slip",
+			"id": "b241e02c-5dc0-d79c-1d3d-edc3cab5f2c3",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully created": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"168"
+			],
+			"allTests": [
+				{
+					"Slip successfully created": true
+				}
+			],
+			"time": "168",
+			"totalRequestTime": "168",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add Slip without number",
+			"id": "1e55233d-70f9-2a19-13e5-3d6cc5bef29d",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"Bad POST to slips gives 400": true
+			},
+			"testPassFailCounts": {
+				"Bad POST to slips gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"64"
+			],
+			"allTests": [
+				{
+					"Bad POST to slips gives 400": true
+				}
+			],
+			"time": "64",
+			"totalRequestTime": "64",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Slip",
+			"id": "b9f0a597-e341-7184-e4da-5de9d0d2e634",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully modified": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully modified": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"137"
+			],
+			"allTests": [
+				{
+					"Slip successfully modified": true
+				}
+			],
+			"time": "137",
+			"totalRequestTime": "137",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Slip with bad ID",
+			"id": "7558878f-a5dd-0441-2f2c-e4c646902885",
+			"url": "marina-rest-api.appspot.com/slips/aghkZXgdfg",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Bad PATCH to slips gives 404": true
+			},
+			"testPassFailCounts": {
+				"Bad PATCH to slips gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"67"
+			],
+			"allTests": [
+				{
+					"Bad PATCH to slips gives 404": true
+				}
+			],
+			"time": "67",
+			"totalRequestTime": "67",
+			"iterationResults": {}
+		},
+		{
+			"name": "Modify Slip with no ID param",
+			"id": "ba0f29fc-06b2-14b8-4413-d3aaa76d2659",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"PATCH to slips with missing ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"PATCH to slips with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"107"
+			],
+			"allTests": [
+				{
+					"PATCH to slips with missing ID gives 400": true
+				}
+			],
+			"time": "107",
+			"totalRequestTime": "107",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Slip",
+			"id": "1d9ef0c5-e5d4-7da9-2579-c920375758d8",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully GET'd": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully GET'd": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"142"
+			],
+			"allTests": [
+				{
+					"Slip successfully GET'd": true
+				}
+			],
+			"time": "142",
+			"totalRequestTime": "142",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Slip with no ID param",
+			"id": "50ee7e93-b8ce-0cc2-4e35-209e18b4d630",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Geting all slips returns list": true
+			},
+			"testPassFailCounts": {
+				"Geting all slips returns list": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"88"
+			],
+			"allTests": [
+				{
+					"Geting all slips returns list": true
+				}
+			],
+			"time": "88",
+			"totalRequestTime": "88",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Slip",
+			"id": "e0f201a0-34e1-81c6-d237-2db1702957ae",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully replaced with PUT": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully replaced with PUT": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"104"
+			],
+			"allTests": [
+				{
+					"Slip successfully replaced with PUT": true
+				}
+			],
+			"time": "104",
+			"totalRequestTime": "104",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Slip bad ID",
+			"id": "cc2eb4f4-2d81-6a22-9959-be789f497d80",
+			"url": "marina-rest-api.appspot.com/slips/dsfds",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"PUT to slips with bad ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"PUT to slips with bad ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"68"
+			],
+			"allTests": [
+				{
+					"PUT to slips with bad ID gives 404": true
+				}
+			],
+			"time": "68",
+			"totalRequestTime": "68",
+			"iterationResults": {}
+		},
+		{
+			"name": "Replace Slip with no ID param",
+			"id": "7a5f2ad7-6633-f2f8-0e01-80a6ed38c1d9",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"PUT to slips with missing ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"PUT to slips with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"94"
+			],
+			"allTests": [
+				{
+					"PUT to slips with missing ID gives 400": true
+				}
+			],
+			"time": "94",
+			"totalRequestTime": "94",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Slip",
+			"id": "71d2c790-cf70-4ff2-938c-7c6d0e722ec3",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"DELETE Slip successful": true
+			},
+			"testPassFailCounts": {
+				"DELETE Slip successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"125"
+			],
+			"allTests": [
+				{
+					"DELETE Slip successful": true
+				}
+			],
+			"time": "125",
+			"totalRequestTime": "125",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Slip with bad ID",
+			"id": "03a92d17-a8e8-1641-45c5-445505c6fb21",
+			"url": "marina-rest-api.appspot.com/slips/trtr",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Bad DELETE to slips gives 404": true
+			},
+			"testPassFailCounts": {
+				"Bad DELETE to slips gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"82"
+			],
+			"allTests": [
+				{
+					"Bad DELETE to slips gives 404": true
+				}
+			],
+			"time": "82",
+			"totalRequestTime": "82",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Slip with no ID param",
+			"id": "c22afe19-3593-72a0-3bf3-d568b4fcd005",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"DELETE to slips with missing ID param gives 400": true
+			},
+			"testPassFailCounts": {
+				"DELETE to slips with missing ID param gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"66"
+			],
+			"allTests": [
+				{
+					"DELETE to slips with missing ID param gives 400": true
+				}
+			],
+			"time": "66",
+			"totalRequestTime": "66",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add Slip again",
+			"id": "984e1935-8054-4a7f-6b58-ab846d0f9dc7",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully created": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"121"
+			],
+			"allTests": [
+				{
+					"Slip successfully created": true
+				}
+			],
+			"time": "121",
+			"totalRequestTime": "121",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival",
+			"id": "6006408b-98a7-2cf6-c1ee-b2ad142884a3",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat arrival": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"193"
+			],
+			"allTests": [
+				{
+					"Successful Boat arrival": true
+				}
+			],
+			"time": "193",
+			"totalRequestTime": "193",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival for occupied slip",
+			"id": "7386a477-65e2-2997-76a6-d26916d79360",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {
+				"Boat Arrival to occupied slip returns 403": true
+			},
+			"testPassFailCounts": {
+				"Boat Arrival to occupied slip returns 403": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"110"
+			],
+			"allTests": [
+				{
+					"Boat Arrival to occupied slip returns 403": true
+				}
+			],
+			"time": "110",
+			"totalRequestTime": "110",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival with bad boat ID",
+			"id": "9e36ffb3-3d3f-4715-2563-84fe2d65f1c2",
+			"url": "marina-rest-api.appspot.com/slips/tdrt/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Boat Arrival with bad slip ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"Boat Arrival with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"64"
+			],
+			"allTests": [
+				{
+					"Boat Arrival with bad slip ID gives 404": true
+				}
+			],
+			"time": "64",
+			"totalRequestTime": "64",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival with bad slip ID",
+			"id": "398a4d12-c3bd-4dcc-effd-72c161c60f0f",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/fdsfds",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Boat Arrival with bad boat ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"Boat Arrival with bad boat ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"69"
+			],
+			"allTests": [
+				{
+					"Boat Arrival with bad boat ID gives 404": true
+				}
+			],
+			"time": "69",
+			"totalRequestTime": "69",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival with no slip ID param",
+			"id": "fd08ae02-34ad-4fce-afe5-9cc2f2153e57",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"Boat arrival with missing slip ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"Boat arrival with missing slip ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"95"
+			],
+			"allTests": [
+				{
+					"Boat arrival with missing slip ID gives 400": true
+				}
+			],
+			"time": "95",
+			"totalRequestTime": "95",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Departure",
+			"id": "e1ffbf8f-8eaf-b6bc-7e03-1b448e3ece70",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat departure": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat departure": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"630"
+			],
+			"allTests": [
+				{
+					"Successful Boat departure": true
+				}
+			],
+			"time": "630",
+			"totalRequestTime": "630",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Departure with bad boat ID",
+			"id": "7a6ecaac-af01-971e-a145-074f1b9a22f9",
+			"url": "marina-rest-api.appspot.com/slips/tdrt/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Boat Departure with bad boat ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"Boat Departure with bad boat ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"67"
+			],
+			"allTests": [
+				{
+					"Boat Departure with bad boat ID gives 404": true
+				}
+			],
+			"time": "67",
+			"totalRequestTime": "67",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Departure with bad slip ID",
+			"id": "3bceca5d-c15c-97c0-3349-41ea95b5ab7c",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/fdsfds",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Boat Departure with bad slip ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"Boat Departure with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"92"
+			],
+			"allTests": [
+				{
+					"Boat Departure with bad slip ID gives 404": true
+				}
+			],
+			"time": "92",
+			"totalRequestTime": "92",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Departure with no slip ID param",
+			"id": "84c22b56-d830-e845-fe7f-58338d5e008a",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"tests": {
+				"Boat departure with missing slip ID gives 400": true
+			},
+			"testPassFailCounts": {
+				"Boat departure with missing slip ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"67"
+			],
+			"allTests": [
+				{
+					"Boat departure with missing slip ID gives 400": true
+				}
+			],
+			"time": "67",
+			"totalRequestTime": "67",
+			"iterationResults": {}
+		},
+		{
+			"name": "Boat Arrival again",
+			"id": "0e39dc6e-7ca7-c1dc-378f-e203a5abef17",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat arrival": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"267"
+			],
+			"allTests": [
+				{
+					"Successful Boat arrival": true
+				}
+			],
+			"time": "267",
+			"totalRequestTime": "267",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Boat for testing Slip status",
+			"id": "337fcf36-50a7-e599-8f8b-b5580cf85592",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"DELETE Boat successful": true
+			},
+			"testPassFailCounts": {
+				"DELETE Boat successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"182"
+			],
+			"allTests": [
+				{
+					"DELETE Boat successful": true
+				}
+			],
+			"time": "182",
+			"totalRequestTime": "182",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Slip after deleting its boat",
+			"id": "5476b8d6-5884-4120-b2ed-e5eec61cc827",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Deleting boat empties slip": true
+			},
+			"testPassFailCounts": {
+				"Deleting boat empties slip": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"97"
+			],
+			"allTests": [
+				{
+					"Deleting boat empties slip": true
+				}
+			],
+			"time": "97",
+			"totalRequestTime": "97",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add a new Boat",
+			"id": "e2abe467-8ecb-83de-df39-803d03b1b04f",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully created": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"123"
+			],
+			"allTests": [
+				{
+					"Boat successfully created": true
+				}
+			],
+			"time": "123",
+			"totalRequestTime": "123",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add new Slip",
+			"id": "b1d01b78-92c0-3734-f674-41b36a24b54e",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully created": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"122"
+			],
+			"allTests": [
+				{
+					"Slip successfully created": true
+				}
+			],
+			"time": "122",
+			"totalRequestTime": "122",
+			"iterationResults": {}
+		},
+		{
+			"name": "New boat arrival",
+			"id": "fdd78919-e5d0-1f42-ba1e-b2bf531bdda2",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA3oyQCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat arrival": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"314"
+			],
+			"allTests": [
+				{
+					"Successful Boat arrival": true
+				}
+			],
+			"time": "314",
+			"totalRequestTime": "314",
+			"iterationResults": {}
+		},
+		{
+			"name": "Delete Slip for testing Boat status",
+			"id": "6fc5b87a-58ae-a6c0-18bd-fb4d8d0d3b78",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA3oyQCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"DELETE Slip successful": true
+			},
+			"testPassFailCounts": {
+				"DELETE Slip successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"254"
+			],
+			"allTests": [
+				{
+					"DELETE Slip successful": true
+				}
+			],
+			"time": "254",
+			"totalRequestTime": "254",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat after deleting its Slip",
+			"id": "98d99957-a1be-e3a9-d4e6-3b9f2c32797c",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCgw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Deleting slip set boat to 'At Sea'": true
+			},
+			"testPassFailCounts": {
+				"Deleting slip set boat to 'At Sea'": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"88"
+			],
+			"allTests": [
+				{
+					"Deleting slip set boat to 'At Sea'": true
+				}
+			],
+			"time": "88",
+			"totalRequestTime": "88",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add another new Boat",
+			"id": "16a19549-89b5-5266-6d43-71c36469da17",
+			"url": "marina-rest-api.appspot.com/boats",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Boat successfully created": true
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"98"
+			],
+			"allTests": [
+				{
+					"Boat successfully created": true
+				}
+			],
+			"time": "98",
+			"totalRequestTime": "98",
+			"iterationResults": {}
+		},
+		{
+			"name": "Add another new Slip",
+			"id": "b74b9e73-58bb-4ab9-9b14-98e2960d202c",
+			"url": "marina-rest-api.appspot.com/slips",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Slip successfully created": true
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"138"
+			],
+			"allTests": [
+				{
+					"Slip successfully created": true
+				}
+			],
+			"time": "138",
+			"totalRequestTime": "138",
+			"iterationResults": {}
+		},
+		{
+			"name": "Another new Boat arrival",
+			"id": "bde9bc8f-6654-7398-6f7a-c0510cc00f56",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat arrival": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"209"
+			],
+			"allTests": [
+				{
+					"Successful Boat arrival": true
+				}
+			],
+			"time": "209",
+			"totalRequestTime": "209",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat via Slip ID",
+			"id": "1e48e78a-397d-b79e-967b-41c085190771",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/boat",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Get current boat from slip ID": true
+			},
+			"testPassFailCounts": {
+				"Get current boat from slip ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"121"
+			],
+			"allTests": [
+				{
+					"Get current boat from slip ID": true
+				}
+			],
+			"time": "121",
+			"totalRequestTime": "121",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat via bad Slip ID",
+			"id": "909bc13c-7644-2bbf-0bd1-d76724a92517",
+			"url": "marina-rest-api.appspot.com/slips/fdsfsdf/boat",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {
+				"Get boat with bad slip ID gives 404": true
+			},
+			"testPassFailCounts": {
+				"Get boat with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"70"
+			],
+			"allTests": [
+				{
+					"Get boat with bad slip ID gives 404": true
+				}
+			],
+			"time": "70",
+			"totalRequestTime": "70",
+			"iterationResults": {}
+		},
+		{
+			"name": "Another new boat departure",
+			"id": "1ce9f361-4989-d15e-1a7a-4a7e7943226e",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCQw",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Successful Boat departure": true
+			},
+			"testPassFailCounts": {
+				"Successful Boat departure": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"131"
+			],
+			"allTests": [
+				{
+					"Successful Boat departure": true
+				}
+			],
+			"time": "131",
+			"totalRequestTime": "131",
+			"iterationResults": {}
+		},
+		{
+			"name": "Get Boat via Slip ID for empty Slip",
+			"id": "45080fee-f31a-1668-dd98-7cfa98d27845",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/boat",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"Get current boat from slip ID": true
+			},
+			"testPassFailCounts": {
+				"Get current boat from slip ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"86"
+			],
+			"allTests": [
+				{
+					"Get current boat from slip ID": true
+				}
+			],
+			"time": "86",
+			"totalRequestTime": "86",
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 52,
+	"totalFail": 0,
+	"totalTime": 6628,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "Add Boat",
+			"id": "731736f4-b369-9bc6-c773-8cc1702d1fd2",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add Boat without name",
+			"id": "c95db051-af1e-8d77-e99f-bee399c6ec53",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad POST to boats gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Boat",
+			"id": "ac569c9d-f6b9-26bf-ab46-461adb02a64e",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully modified": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Boat with bad ID",
+			"id": "656af352-93ce-92e3-516e-f23926e3e168",
+			"url": "marina-rest-api.appspot.com/boats/aghkZXgdfg",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad PATCH to boats gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Boat with no ID param",
+			"id": "11fd149e-8e34-c289-d80f-4d3f1e95cb1f",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"PATCH to boats with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat",
+			"id": "06ea7bf5-a8b2-f0b3-e245-2c439fa68e6a",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully GET'd": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat with no ID param",
+			"id": "3e560ec4-f868-3ed1-a36a-2978dd5cef5b",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Geting all boats returns list": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Boat",
+			"id": "262891d3-8efc-8833-29ce-6369c875e7ed",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully replaced with PUT": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Boat bad ID",
+			"id": "9cc9aa0b-0745-9a98-63f8-06c348939a72",
+			"url": "marina-rest-api.appspot.com/boats/dsfds",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"PUT to boats with bad ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Boat with no ID param",
+			"id": "c11f2492-4bc1-4ed0-c729-021d0fad3cbc",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"PUT to boats with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Boat",
+			"id": "a33888b4-e463-51e7-1d70-d5bcca75e99b",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAmdKFCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE Boat successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Boat with bad ID",
+			"id": "1cbb87b3-c88d-7c69-dacd-5e841dbab5e7",
+			"url": "marina-rest-api.appspot.com/boats/trtr",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad DELETE to boats gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Boat with no ID param",
+			"id": "4176399d-a7f6-23c8-3fd7-67fbd2c03243",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE to boats with missing ID param gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add Boat again",
+			"id": "1aa588cf-4273-c920-1173-244e66ca6421",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add Slip",
+			"id": "b241e02c-5dc0-d79c-1d3d-edc3cab5f2c3",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add Slip without number",
+			"id": "1e55233d-70f9-2a19-13e5-3d6cc5bef29d",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad POST to slips gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Slip",
+			"id": "b9f0a597-e341-7184-e4da-5de9d0d2e634",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully modified": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Slip with bad ID",
+			"id": "7558878f-a5dd-0441-2f2c-e4c646902885",
+			"url": "marina-rest-api.appspot.com/slips/aghkZXgdfg",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad PATCH to slips gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Modify Slip with no ID param",
+			"id": "ba0f29fc-06b2-14b8-4413-d3aaa76d2659",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"PATCH to slips with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Slip",
+			"id": "1d9ef0c5-e5d4-7da9-2579-c920375758d8",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully GET'd": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Slip with no ID param",
+			"id": "50ee7e93-b8ce-0cc2-4e35-209e18b4d630",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Geting all slips returns list": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Slip",
+			"id": "e0f201a0-34e1-81c6-d237-2db1702957ae",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully replaced with PUT": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Slip bad ID",
+			"id": "cc2eb4f4-2d81-6a22-9959-be789f497d80",
+			"url": "marina-rest-api.appspot.com/slips/dsfds",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"PUT to slips with bad ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Replace Slip with no ID param",
+			"id": "7a5f2ad7-6633-f2f8-0e01-80a6ed38c1d9",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"PUT to slips with missing ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Slip",
+			"id": "71d2c790-cf70-4ff2-938c-7c6d0e722ec3",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA7bGDCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE Slip successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Slip with bad ID",
+			"id": "03a92d17-a8e8-1641-45c5-445505c6fb21",
+			"url": "marina-rest-api.appspot.com/slips/trtr",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Bad DELETE to slips gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Slip with no ID param",
+			"id": "c22afe19-3593-72a0-3bf3-d568b4fcd005",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE to slips with missing ID param gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add Slip again",
+			"id": "984e1935-8054-4a7f-6b58-ab846d0f9dc7",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival",
+			"id": "6006408b-98a7-2cf6-c1ee-b2ad142884a3",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival for occupied slip",
+			"id": "7386a477-65e2-2997-76a6-d26916d79360",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat Arrival to occupied slip returns 403": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival with bad boat ID",
+			"id": "9e36ffb3-3d3f-4715-2563-84fe2d65f1c2",
+			"url": "marina-rest-api.appspot.com/slips/tdrt/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat Arrival with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival with bad slip ID",
+			"id": "398a4d12-c3bd-4dcc-effd-72c161c60f0f",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/fdsfds",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat Arrival with bad boat ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival with no slip ID param",
+			"id": "fd08ae02-34ad-4fce-afe5-9cc2f2153e57",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat arrival with missing slip ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Departure",
+			"id": "e1ffbf8f-8eaf-b6bc-7e03-1b448e3ece70",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat departure": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Departure with bad boat ID",
+			"id": "7a6ecaac-af01-971e-a145-074f1b9a22f9",
+			"url": "marina-rest-api.appspot.com/slips/tdrt/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat Departure with bad boat ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Departure with bad slip ID",
+			"id": "3bceca5d-c15c-97c0-3349-41ea95b5ab7c",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/fdsfds",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat Departure with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Departure with no slip ID param",
+			"id": "84c22b56-d830-e845-fe7f-58338d5e008a",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/departure/",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request",
+				"detail": {
+					"name": "Bad Request",
+					"detail": "The request cannot be fulfilled due to bad syntax."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat departure with missing slip ID gives 400": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Boat Arrival again",
+			"id": "0e39dc6e-7ca7-c1dc-378f-e203a5abef17",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Boat for testing Slip status",
+			"id": "337fcf36-50a7-e599-8f8b-b5580cf85592",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAgICACQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE Boat successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Slip after deleting its boat",
+			"id": "5476b8d6-5884-4120-b2ed-e5eec61cc827",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICAvNWTCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Deleting boat empties slip": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add a new Boat",
+			"id": "e2abe467-8ecb-83de-df39-803d03b1b04f",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add new Slip",
+			"id": "b1d01b78-92c0-3734-f674-41b36a24b54e",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "New boat arrival",
+			"id": "fdd78919-e5d0-1f42-ba1e-b2bf531bdda2",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA3oyQCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Delete Slip for testing Boat status",
+			"id": "6fc5b87a-58ae-a6c0-18bd-fb4d8d0d3b78",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA3oyQCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"DELETE Slip successful": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat after deleting its Slip",
+			"id": "98d99957-a1be-e3a9-d4e6-3b9f2c32797c",
+			"url": "marina-rest-api.appspot.com/boats/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCgw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Deleting slip set boat to 'At Sea'": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add another new Boat",
+			"id": "16a19549-89b5-5266-6d43-71c36469da17",
+			"url": "marina-rest-api.appspot.com/boats",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Boat successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Add another new Slip",
+			"id": "b74b9e73-58bb-4ab9-9b14-98e2960d202c",
+			"url": "marina-rest-api.appspot.com/slips",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Slip successfully created": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Another new Boat arrival",
+			"id": "bde9bc8f-6654-7398-6f7a-c0510cc00f56",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/arrival/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat arrival": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat via Slip ID",
+			"id": "1e48e78a-397d-b79e-967b-41c085190771",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/boat",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Get current boat from slip ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat via bad Slip ID",
+			"id": "909bc13c-7644-2bbf-0bd1-d76724a92517",
+			"url": "marina-rest-api.appspot.com/slips/fdsfsdf/boat",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {
+				"Get boat with bad slip ID gives 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Another new boat departure",
+			"id": "1ce9f361-4989-d15e-1a7a-4a7e7943226e",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/departure/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEQm9hdBiAgICAq_OHCQw",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Successful Boat departure": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "Get Boat via Slip ID for empty Slip",
+			"id": "45080fee-f31a-1668-dd98-7cfa98d27845",
+			"url": "marina-rest-api.appspot.com/slips/ahFwfm1hcmluYS1yZXN0LWFwaXIRCxIEU2xpcBiAgICA2reXCgw/boat",
+			"time": "2017-04-30T17:12:13.233Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"Get current boat from slip ID": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		}
+	],
+	"synced": false
+}
